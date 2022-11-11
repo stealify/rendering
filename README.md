@@ -1,2 +1,3 @@
 # rendering
 Rendering Components like WebGL, AGL, Mesa2D, Mesa3D ...
+serves also as graphics driver integration point
